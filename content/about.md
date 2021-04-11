@@ -3,7 +3,10 @@ title = "About"
 +++
 
 ## About Me
-I am third student at University of Tsukuba.
+#### Hi, I'm Yu Yamashita!
+I'm a senior student at [University of Tsukuba](https://www.tsukuba.ac.jp/en/),
+where I'm part of the [FusionCompLab](https://fusioncomplab.org/index.html).<br>
+I want to study abroad in the future!
 {{< figure class="avatar" src="/profile-circle.png" >}}
 
 <!--
@@ -11,8 +14,23 @@ This is a Hugo based resume template. You can find the full source code on
 [GitHub](https://github.com/ojroques/hugo-researcher).
 -->
 
-## Research Interest
-Crowdsourcing and Deep Learning.
+## News
+coming soon...
+
+## Education
+**University of Tsukuba, Japan. April 2018 - March 2022**
+College of Knowledge and Library Sciences, School of Informatics.<br>
+Advisor: [Atsuyuki Morishima](https://fusioncomplab.org/people/atsuyuki/index.html).
+
+## Research Interests
+#### Crowdsourcing
+1. Online task assignment with Hybrid Workforce (Human+AI)
+2. Skill domain transition
+3. Learn and self-correction based on rationale
+
+#### Deep Learning
+1. Speed up Multi Agent Simulation using deep learning
+
 <!-- 
 aaaula placerat ex, a consectetur odio
 pharetra quis[^1]. Mauris id urna ante.
@@ -23,17 +41,44 @@ ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 -->
 
 ## Publications
+1. <u>Yu Yamashita</u>, Shunsuke Shigenaka, Disuke Oba, Masaki Onishi. Estimation of Large-scale Multi Agent Simulation Results
+Using Neural Networks. The Japanese Society for Artificial Intelligence. Virtual Conference, 2020. (Japanese paper)
+2. <u>Yu Yamashita</u>, Masaki Kobayashi, Kei Wakabayashi, and Atsuyuki Morishima. Dynamic Worker-Task Assignment for High-Quality Task Results with ML Workers. The eighth AAAI Conference on Human Computation and Crowdsourcing (HCOMP2020 WiP). Virtual Conference, 2020.
+3. <u>Yu Yamashita</u>, Masaki Kobayashi, Kei Wakabayashi, and Atsuyuki Morishima. An reduction method by using AI in crowdsourcing. Forum on Data Engineering
+and Information Management (DEIM2020). Virtual Conference, 2020. (Japanese paper)
 
-1. Yu Yamashita, Shunsuke Shigenaka, Disuke Oba, Masaki Onishi. Estimation of Large-scale Multi Agent Simulation Results
-Using Neural Networks. The Japanese Society for Artificial Intelligence. Virtual Conference, 2020.
-2. Yu Yamashita, Masaki Kobayashi, Kei Wakabayashi, and Atsuyuki Morishima. Dynamic Worker-Task Assignment for High-Quality Task Results with ML Workers. The eighth AAAI Conference on Human Computation and Crowdsourcing (HCOMP2020 WiP). Virtual Conference, 2020.
-3. Yu Yamashita, Masaki Kobayashi, Kei Wakabayashi, and Atsuyuki Morishima. An reduction method by using AI in crowdsourcing. Forum on Data Engineering
-and Information Management (DEIM2020). Virtual Conference, 2020.
 <!--
 In chronological order:
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 -->
+
+## Work Experience
+**National Institute of Advanced Industrial Science and Technology (AIST). February 2020 -**<br>
+Research Intern<br>
+Mentored by Dr. [Masaki Onishi](http://onishi-lab.jp/index-e.html)<br>
+My research's theme is speeding up Multi Agent Simulation using deep learning.<br>
+I wrote a Japanse paper.
+
+**FusionCompLab. June 2020 -**<br>
+I'm developing [Crowd4U](https://crowd4u.org/en/). 
+
+## Grants
+**Outside the University**<br>
+1. Fuji Seal Foundation April 2020 - March 2022 JPY 1,200,000
+
+**Inside the University**<br>
+1. Leading Researcher Experience Program at University of Tsukuba (A) May 2020 - January 2021 JPY 150,000
+2. Leading Researcher Experience Program at University of Tsukuba (C) May 2019 - January 2020 JPY 50,000
+3. Conference Presentation Support JPY 21,000
+4. Conference Presentation Support
+
+## Skill
+**Programming :** Python, Ruby, Javascript<br>
+**Tool :** Deep Learning(Pytorch, Keras), Web Application(Flask, Sinatra), Git, Linux, SQL, Docker, Tex
+
+## Awards
+coming soon...
 
 <!--
 ## Typography
