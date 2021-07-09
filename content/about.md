@@ -14,22 +14,15 @@ This is a Hugo based resume template. You can find the full source code on
 [GitHub](https://github.com/ojroques/hugo-researcher).
 -->
 
-## News
-coming soon...
-
 ## Education
 **University of Tsukuba, Japan. April 2018 - March 2022**
 College of Knowledge and Library Sciences, School of Informatics.<br>
 Advisor: [Atsuyuki Morishima](https://fusioncomplab.org/people/atsuyuki/index.html).
 
 ## Research Interests
-#### Crowdsourcing
-1. Online task assignment with Hybrid Workforce (Human+AI)
+1. Human-AI collaboration
 2. Skill domain transition
-3. Learn and self-correction based on rationale
-
-#### Deep Learning
-1. Speed up Multi Agent Simulation using deep learning
+3. Speed up Multi Agent Simulation using deep learning
 
 <!-- 
 aaaula placerat ex, a consectetur odio
@@ -41,11 +34,11 @@ ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 -->
 
 ## Publications
-1. <u>Yu Yamashita</u>, Shunsuke Shigenaka, Disuke Oba, Masaki Onishi. Estimation of Large-scale Multi Agent Simulation Results
-Using Neural Networks. The Japanese Society for Artificial Intelligence. Virtual Conference, 2020. (Japanese paper)
-2. <u>Yu Yamashita</u>, Masaki Kobayashi, Kei Wakabayashi, and Atsuyuki Morishima. Dynamic Worker-Task Assignment for High-Quality Task Results with ML Workers. The eighth AAAI Conference on Human Computation and Crowdsourcing (HCOMP2020 WiP). Virtual Conference, 2020.
-3. <u>Yu Yamashita</u>, Masaki Kobayashi, Kei Wakabayashi, and Atsuyuki Morishima. An reduction method by using AI in crowdsourcing. Forum on Data Engineering
-and Information Management (DEIM2020). Virtual Conference, 2020. (Japanese paper)
+1. <u>Yu Yamashita</u>, Shunsuke Shigenaka, Disuke Oba, and Masaki Onishi, "Estimation of Large-scale Multi Agent Simulation Results
+Using Neural Networks", Special Interest Group on Society and Artificial Intelligence (SIG-SAI), Nov. 2020. (Japanese paper)
+2. <u>Yu Yamashita</u>, Masaki Kobayashi, Kei Wakabayashi, and Atsuyuki Morishima. "Dynamic Worker-Task Assignment for High-Quality Task Results with ML Workers", The eighth AAAI Conference on Human Computation and Crowdsourcing (HCOMP2020 WiP), Oct. 2020.
+3. <u>Yu Yamashita</u>, Masaki Kobayashi, Kei Wakabayashi, and Atsuyuki Morishima. "An reduction method by using AI in crowdsourcing". Forum on Data Engineering
+and Information Management (DEIM2020), March. 2020. (Japanese paper)
 
 <!--
 In chronological order:
@@ -68,17 +61,10 @@ I'm developing [Crowd4U](https://crowd4u.org/en/).
 1. Fuji Seal Foundation April 2020 - March 2022 JPY 1,200,000
 
 **Inside the University**<br>
-1. Leading Researcher Experience Program at University of Tsukuba (A) May 2020 - January 2021 JPY 150,000
-2. Leading Researcher Experience Program at University of Tsukuba (C) May 2019 - January 2020 JPY 50,000
-3. Conference Presentation Support JPY 21,000
-4. Conference Presentation Support
-
-## Skill
-**Programming :** Python, Ruby, Javascript<br>
-**Tool :** Deep Learning(Pytorch, Keras), Web Application(Flask, Sinatra), Git, Linux, SQL, Docker, Tex
-
-## Awards
-coming soon...
+1. Leading Researcher Experience Program (A) May 2020 - January 2021 JPY 150,000
+2. Leading Researcher Experience Program (C) May 2019 - January 2020 JPY 50,000
+3. Conference Presentation Support 2020.10 JPY 13,536
+4. Conference Presentation Support 2020.3 JPY 21,000
 
 <!--
 ## Typography
