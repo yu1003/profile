@@ -11,17 +11,18 @@ canonifyurls = true
 [params]
   author = "Yu Yamashita"
   description = "A simple monospaced resume theme for Hugo."
-  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  #favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "By Yu Yamashita"
-    url = "https://github.com/ojroques/hugo-researcher"
+    url = "https://yu1003.github.io/profile/"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Minimal"
     pageWidth = "750px"
     avatarSize = "90px"
     colorBlack = "#222222"
-    colorRed = "#dc3545"
+    #colorRed = "#dc3545"
+    colorRed = "#00008B"
 
 [permalinks]
   "/" = "/:filename"
