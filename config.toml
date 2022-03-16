@@ -18,10 +18,9 @@ canonifyurls = true
     url = "https://yu1003.github.io/profile/"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Minimal"
-    #pageWidth = "750px"
-    pageWidth = "900px"
+    pageWidth = "750px"
     #avatarSize = "90px"
-    avatarSize = "100px"
+    avatarSize = "130px"
     colorBlack = "#222222"
     #colorRed = "#dc3545"
     colorRed = "#00008B"
