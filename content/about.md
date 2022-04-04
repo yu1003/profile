@@ -32,9 +32,10 @@ ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 -->
 
 ## Publications
-- <u>Yu Yamashita</u>, Shunki Takami, Shusuke Shigenaka, Masaki Onishi, and Atsuyuki Morishima. "Replacing Method for Multi-Agent Crowd Simulation by Convolutional Neural Network", AAMAS 2022 Workshop on Multi-Agent-Based Simulation, May. 2022.
-- <u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, and Atsuyuki Morishima. "HAEM: Obtaining Higher-Quality Classification Task Results with AI Co-Workers", The 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP2021 WiP), Nov. 2021.
-- <u>Yu Yamashita</u>, Masaki Kobayashi, Kei Wakabayashi, and Atsuyuki Morishima. "Dynamic Worker-Task Assignment for High-Quality Task Results with ML Workers", The 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP2020 WiP), Oct. 2020.
+- <u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima. HAEM: Obtaining Higher-Quality Classification Task Results with AI workers. The 14th ACM Web Science Conference (WebSci), Jun. 2022.
+- <u>Yu Yamashita</u>, Shunki Takami, Shusuke Shigenaka, Masaki Onishi, Atsuyuki Morishima. Replacing Method for Multi-Agent Crowd Simulation by Convolutional Neural Network. The 23rd AAMAS Workshop on Multi-Agent-Based Simulation (MABS), May. 2022.
+- <u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima. HAEM: Obtaining Higher-Quality Classification Task Results with AI Co-Workers. The 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP), Nov. 2021. (Work in progress track)
+- <u>Yu Yamashita</u>, Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima. Dynamic Worker-Task Assignment for High-Quality Task Results with ML Workers. The 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP), Oct. 2020. (Work in progress track)
 
 I also wrote three papers in Japanese.
 
@@ -44,10 +45,13 @@ In chronological order:
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 -->
 
-## Work Experience
+## Experience
+**[The Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS)](https://cmmrs.mpi-sws.org/)**<br>
+Program Student, Aug. 2022<br>
+
 **[National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/index_en.html)**<br>
 Research Intern, Feb. 2020 - now<br>
-Mentor: [Masaki Onishi](http://onishi-lab.jp/index-e.html)<br>
+Mentor: [Masaki Onishi](http://onishi-lab.jp/index-e.html) and Yuko Sakurai<br>
 
 **[FusionCompLab](https://fusioncomplab.org/index.html)**<br>
 Developing [Crowd4U](https://crowd4u.org/en/), Jun. 2020 - now<br>
