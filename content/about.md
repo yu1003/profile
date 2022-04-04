@@ -4,7 +4,7 @@ title = "About"
 
 ## About Me
 #### Hi, I'm Yu Yamashita!
-I'm an undergraduate student at [University of Tsukuba](https://www.tsukuba.ac.jp/en/),
+I'm an undergraduate student at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/),
 where I'm part of the [FusionCompLab](https://fusioncomplab.org/index.html).<br>
 I'm looking for summer research interns and Ph.D. positions starting from fall 2023!
 {{< figure class="avatar" src="/profile-circle.png" >}}
@@ -15,7 +15,7 @@ This is a Hugo based resume template. You can find the full source code on
 -->
 
 ## Education
-**University of Tsukuba, Japan**<br>
+**The University of Tsukuba, Japan**<br>
 B.S. in Library and Information Science, Apr. 2018 - Mar. 2023<br>
 Advisor: [Atsuyuki Morishima](https://fusioncomplab.org/people/atsuyuki/index.html)
 
