@@ -6,7 +6,7 @@ title = "About"
 #### Hi, I'm Yu Yamashita!
 I'm an undergraduate student at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/),
 where I'm part of the [FusionCompLab](https://fusioncomplab.org/index.html).<br>
-I'm looking for summer research interns and Ph.D. positions starting from fall 2023!
+I'm looking for Ph.D. positions starting from Fall 2023!
 {{< figure class="avatar" src="/profile-circle.png" >}}
 
 <!--
@@ -32,7 +32,7 @@ ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 -->
 
 ## Publications
-- <u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima. HAEM: Obtaining Higher-Quality Classification Task Results with AI workers. The 14th ACM Web Science Conference (WebSci), Jun. 2022.
+- <u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima. HAEM: Obtaining Higher-Quality Classification Task Results with AI workers. The 14th ACM Web Science Conference (WebSci), Jun. 2022. (Acceptance Rate 37%) <b>Best paper candidate</b>
 - <u>Yu Yamashita</u>, Shunki Takami, Shusuke Shigenaka, Masaki Onishi, Atsuyuki Morishima. Replacing Method for Multi-Agent Crowd Simulation by Convolutional Neural Network. The 23rd AAMAS Workshop on Multi-Agent-Based Simulation (MABS), May. 2022.
 - <u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima. HAEM: Obtaining Higher-Quality Classification Task Results with AI Co-Workers. The 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP), Nov. 2021. (Work in progress track)
 - <u>Yu Yamashita</u>, Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima. Dynamic Worker-Task Assignment for High-Quality Task Results with ML Workers. The 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP), Oct. 2020. (Work in progress track)
@@ -50,7 +50,7 @@ In chronological order:
 Program Student, Aug. 2022<br>
 
 **[National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/index_en.html)**<br>
-Research Intern, Feb. 2020 - now<br>
+Research Intern, Feb. 2020 - Jun. 2022<br>
 Mentor: [Masaki Onishi](http://onishi-lab.jp/index-e.html) and Yuko Sakurai<br>
 
 **[FusionCompLab](https://fusioncomplab.org/index.html)**<br>
