@@ -6,7 +6,7 @@ title = "About"
 #### Hi, I'm Yu Yamashita!
 I'm an undergraduate student at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/),
 where I'm part of the [FusionCompLab](https://fusioncomplab.org/index.html).<br>
-I'm looking for Ph.D. positions starting from Fall 2023!
+I'm a doing research internship at Max Planck Institute from April 2023!
 {{< figure class="avatar" src="/profile-circle.png" >}}
 
 <!--
@@ -20,7 +20,7 @@ B.S. in Library and Information Science, Apr. 2018 - Mar. 2023<br>
 Advisor: [Atsuyuki Morishima](https://fusioncomplab.org/people/atsuyuki/index.html)
 
 ## Research Interests
-Human-AI collaboration, Crowdsourcing
+Human-AI interaction, Crowdsourcing, Machine Learning
 
 <!-- 
 aaaula placerat ex, a consectetur odio
@@ -32,12 +32,11 @@ ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 -->
 
 ## Publications
+- Yunyi Xiao, <u>Yu Yamashita</u>, Hiroyoshi Ito, Masaki Matsubara, Atsuyuki Morishima. Multi-Armed Bandit Approach to Task Assignment across Multi Crowdsourcing Platforms. The 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP), Nov. 2022. (Work in progress track)
 - <u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima. HAEM: Obtaining Higher-Quality Classification Task Results with AI workers. The 14th ACM Web Science Conference (WebSci), Jun. 2022. (Acceptance Rate 37%) <b>Best paper candidate</b>
 - <u>Yu Yamashita</u>, Shunki Takami, Shusuke Shigenaka, Masaki Onishi, Atsuyuki Morishima. Replacing Method for Multi-Agent Crowd Simulation by Convolutional Neural Network. The 23rd AAMAS Workshop on Multi-Agent-Based Simulation (MABS), May. 2022.
 - <u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima. HAEM: Obtaining Higher-Quality Classification Task Results with AI Co-Workers. The 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP), Nov. 2021. (Work in progress track)
 - <u>Yu Yamashita</u>, Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima. Dynamic Worker-Task Assignment for High-Quality Task Results with ML Workers. The 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP), Oct. 2020. (Work in progress track)
-
-I also wrote three papers in Japanese.
 
 <!--
 In chronological order:
@@ -46,11 +45,14 @@ In chronological order:
 -->
 
 ## Experience
+**[Max Planck Institute for security and privacy](https://www.mpi-sp.org/)**<br>
+Research Internship, Apr. 2023 - Mar. 2024
+
 **[The Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS)](https://cmmrs.mpi-sws.org/)**<br>
 Program Student, Aug. 2022<br>
 
 **[National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/index_en.html)**<br>
-Research Intern, Feb. 2020 - Jun. 2022<br>
+Research Internship, Feb. 2020 - Jun. 2022<br>
 Mentor: [Masaki Onishi](http://onishi-lab.jp/index-e.html) and Yuko Sakurai<br>
 
 **[FusionCompLab](https://fusioncomplab.org/index.html)**<br>

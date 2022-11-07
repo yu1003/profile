@@ -2,7 +2,7 @@
 title = "Contact"
 +++
 
-Email: [yu.yamashita.2021b@mlab.info](mailto:foo@xyz.com)
+Email: [yu.yamashita.03@gmail.com](mailto:yu.yamashita.03@gmail.com)
 <!-- 
 * Phone: [+91-123123](tel:+91-123123)
 -->
