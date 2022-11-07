@@ -6,7 +6,7 @@ title = "About"
 #### Hi, I'm Yu Yamashita!
 I'm an undergraduate student at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/),
 where I'm part of the [FusionCompLab](https://fusioncomplab.org/index.html).<br>
-I'm doing a research internship at Max Planck Institute from April 2023!
+I'm a doing research internship at Max Planck Institute from April 2023!
 {{< figure class="avatar" src="/profile-circle.png" >}}
 
 <!--
@@ -45,8 +45,9 @@ In chronological order:
 -->
 
 ## Experience
-**[Max Planck Institute for security and privacy](https://www.mpi-sp.org/)**<br>
-Research Internship, Apr. 2023 - Mar. 2024
+**[The Max Planck Institute for security and privacy](https://www.mpi-sp.org/)**<br>
+Responsible Computing group<br>
+Research Internship, Apr. 2023 - Mar. 2024<br>
 
 **[The Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS)](https://cmmrs.mpi-sws.org/)**<br>
 Program Student, Aug. 2022<br>

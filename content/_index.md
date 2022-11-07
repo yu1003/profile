@@ -45,8 +45,9 @@ In chronological order:
 -->
 
 ## Experience
-**[Max Planck Institute for security and privacy](https://www.mpi-sp.org/)**<br>
-Research Internship, Apr. 2023 - Mar. 2024
+**[The Max Planck Institute for security and privacy](https://www.mpi-sp.org/)**<br>
+Responsible Computing group<br>
+Research Internship, Apr. 2023 - Mar. 2024<br>
 
 **[The Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS)](https://cmmrs.mpi-sws.org/)**<br>
 Program Student, Aug. 2022<br>
