@@ -17,7 +17,7 @@ canonifyurls = true
     text = "By Yu Yamashita"
     url = "https://yu1003.github.io/profile/"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Minimal"
+    fontFamily = "Roboto"
     pageWidth = "750px"
     #avatarSize = "90px"
     avatarSize = "130px"

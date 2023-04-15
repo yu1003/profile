@@ -4,9 +4,8 @@ title = "About"
 
 ## About Me
 #### Hi, I'm Yu Yamashita!
-I'm an undergraduate student at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/),
-where I'm part of the [FusionCompLab](https://fusioncomplab.org/index.html).<br>
-I'm a doing research internship at Max Planck Institute from April 2023!
+I am currently doing a research internship at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/), where I am advised by [Asia J. Biega](https://asiabiega.github.io/).
+Before MPI-SP, I received a Bachelor of Arts in Library and Information Science from the University of Tsukuba in 2023.<br>
 {{< figure class="avatar" src="/profile-circle.png" >}}
 
 <!--
@@ -17,10 +16,11 @@ This is a Hugo based resume template. You can find the full source code on
 ## Education
 **The University of Tsukuba, Japan**<br>
 B.S. in Library and Information Science, Apr. 2018 - Mar. 2023<br>
-Advisor: [Atsuyuki Morishima](https://fusioncomplab.org/people/atsuyuki/index.html)
+Advisor: [Atsuyuki Morishima](https://fusioncomplab.org/people/atsuyuki/index.html)<br>
+President Award
 
 ## Research Interests
-Human-AI interaction, Crowdsourcing, Machine Learning
+Human-AI interaction, Applied Machine Learning, Crowdsourcing
 
 <!-- 
 aaaula placerat ex, a consectetur odio
@@ -32,11 +32,20 @@ ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 -->
 
 ## Publications
-- Yunyi Xiao, <u>Yu Yamashita</u>, Hiroyoshi Ito, Masaki Matsubara, Atsuyuki Morishima. Multi-Armed Bandit Approach to Task Assignment across Multi Crowdsourcing Platforms. The 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP), Nov. 2022. (Work in progress track)
-- <u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima. HAEM: Obtaining Higher-Quality Classification Task Results with AI workers. The 14th ACM Web Science Conference (WebSci), Jun. 2022. (Acceptance Rate 37%) <b>Best paper candidate</b>
-- <u>Yu Yamashita</u>, Shunki Takami, Shusuke Shigenaka, Masaki Onishi, Atsuyuki Morishima. Replacing Method for Multi-Agent Crowd Simulation by Convolutional Neural Network. The 23rd AAMAS Workshop on Multi-Agent-Based Simulation (MABS), May. 2022.
-- <u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima. HAEM: Obtaining Higher-Quality Classification Task Results with AI Co-Workers. The 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP), Nov. 2021. (Work in progress track)
-- <u>Yu Yamashita</u>, Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima. Dynamic Worker-Task Assignment for High-Quality Task Results with ML Workers. The 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP), Oct. 2020. (Work in progress track)
+- *Multi-Armed Bandit Approach to Qualification Task Assignment across Multi Crowdsourcing Platforms*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yunyi Xiao, <u>Yu Yamashita</u>, Hiroyoshi Ito, Masaki Matsubara, Atsuyuki Morishima<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 6th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData (HMData 2022)
+    - (Related presentasions) *Multi-Armed Bandit Approach to Task Assignment across Multi Crowdsourcing Platforms.* The 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP2022 WiP)<br>
+<br>
+- *HAEM: Obtaining Higher-Quality Classification Task Results with AI workers*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 14th ACM Web Science Conference (WebSci2022) (Acceptance Rate 37%) <b>Best paper candidate</b><br>
+    - (Related presentasions 1) *HAEM: Obtaining Higher-Quality Classification Task Results with AI Co-Workers.* The 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP2021 WiP)<br>
+    - (Related presentasions 2) *Dynamic Worker-Task Assignment for High-Quality Task Results with ML Workers.* The 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP2020 WiP)<br>
+<br>
+- *Replacing Method for Multi-Agent Crowd Simulation by Convolutional Neural Network*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Yu Yamashita</u>, Shunki Takami, Shusuke Shigenaka, Masaki Onishi, Atsuyuki Morishima<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 23rd International Workshop on Multi-Agent-Based Simulation (MABS2022)<br>
 
 <!--
 In chronological order:
@@ -45,9 +54,10 @@ In chronological order:
 -->
 
 ## Experience
-**[The Max Planck Institute for security and privacy](https://www.mpi-sp.org/)**<br>
+**[Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/)**<br>
 Responsible Computing group<br>
 Research Internship, Apr. 2023 - Mar. 2024<br>
+Advisor: [Asia J. Biega](https://asiabiega.github.io/)
 
 **[The Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS)](https://cmmrs.mpi-sws.org/)**<br>
 Program Student, Aug. 2022<br>
@@ -57,12 +67,15 @@ Research Internship, Feb. 2020 - Jun. 2022<br>
 Mentor: [Masaki Onishi](http://onishi-lab.jp/index-e.html) and Yuko Sakurai<br>
 
 **[FusionCompLab](https://fusioncomplab.org/index.html)**<br>
-Developing [Crowd4U](https://crowd4u.org/en/), Jun. 2020 - now<br>
+Developing [Crowd4U](https://crowd4u.org/en/), Jun. 2020<br>
+
+## Awards
+President Award, Mar. 2023, University of Tsukuba
 
 ## Grants
-- [Fuji Seal Foundation](https://www.fujiseal.or.jp/en/), Apr. 2020 - Mar. 2022, JPY 1,200,000
-- Leading Researcher Experience Program (A), May. 2020 - Jan. 2021, University of Tsukuba, JPY 150,000
-- Leading Researcher Experience Program (C), May. 2019 - Jan. 2020, University of Tsukuba, JPY 50,000
+- [Fuji Seal Foundation](https://www.fujiseal.or.jp/en/), Apr. 2020 - Sep. 2021, Oct. 2022 - Mar. 2023, JPY 1,200,000
+- Leading Researcher Experience Program (A), May. 2020 - Jan. 2021, University of Tsukuba
+- Leading Researcher Experience Program (C), May. 2019 - Jan. 2020, University of Tsukuba
 - Conference Presentation Support, Oct. 2020, University of Tsukuba, JPY 13,536
 - Conference Presentation Support, Mar. 2020, University of Tsukuba, JPY 21,000
 
