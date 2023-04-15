@@ -15,7 +15,7 @@ This is a Hugo based resume template. You can find the full source code on
 
 ## Education
 **The University of Tsukuba, Japan**<br>
-B.S. in Library and Information Science, Apr. 2018 - Mar. 2023<br>
+B.A. in Library and Information Science, Apr. 2018 - Mar. 2023<br>
 Advisor: [Atsuyuki Morishima](https://fusioncomplab.org/people/atsuyuki/index.html)<br>
 President Award
 
@@ -34,18 +34,18 @@ ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 ## Publications
 - *Multi-Armed Bandit Approach to Qualification Task Assignment across Multi Crowdsourcing Platforms*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yunyi Xiao, <u>Yu Yamashita</u>, Hiroyoshi Ito, Masaki Matsubara, Atsuyuki Morishima<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 6th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData (HMData 2022)
-    - (Related presentasions) *Multi-Armed Bandit Approach to Task Assignment across Multi Crowdsourcing Platforms.* The 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP2022 WiP)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 6th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData (<b>HMData 2022</b>)
+    - (Related presentasions) *Multi-Armed Bandit Approach to Task Assignment across Multi Crowdsourcing Platforms.* The 10th AAAI Conference on Human Computation and Crowdsourcing (<b>HCOMP2022 WiP</b>)<br>
 <br>
 - *HAEM: Obtaining Higher-Quality Classification Task Results with AI workers*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 14th ACM Web Science Conference (WebSci2022) (Acceptance Rate 37%) <b>Best paper candidate</b><br>
-    - (Related presentasions 1) *HAEM: Obtaining Higher-Quality Classification Task Results with AI Co-Workers.* The 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP2021 WiP)<br>
-    - (Related presentasions 2) *Dynamic Worker-Task Assignment for High-Quality Task Results with ML Workers.* The 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP2020 WiP)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 14th ACM Web Science Conference (<b>WebSci2022</b>) <b>Best paper candidate</b><br>
+    - (Related presentasions 1) *HAEM: Obtaining Higher-Quality Classification Task Results with AI Co-Workers.* The 9th AAAI Conference on Human Computation and Crowdsourcing (<b>HCOMP2021 WiP</b>)<br>
+    - (Related presentasions 2) *Dynamic Worker-Task Assignment for High-Quality Task Results with ML Workers.* The 8th AAAI Conference on Human Computation and Crowdsourcing (<b>HCOMP2020 WiP</b>)<br>
 <br>
 - *Replacing Method for Multi-Agent Crowd Simulation by Convolutional Neural Network*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Yu Yamashita</u>, Shunki Takami, Shusuke Shigenaka, Masaki Onishi, Atsuyuki Morishima<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 23rd International Workshop on Multi-Agent-Based Simulation (MABS2022)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 23rd International Workshop on Multi-Agent-Based Simulation (<b>MABS2022</b>)<br>
 
 <!--
 In chronological order:
