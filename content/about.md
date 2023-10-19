@@ -20,7 +20,7 @@ Advisor: [Atsuyuki Morishima](https://fusioncomplab.org/people/atsuyuki/index.ht
 President Award
 
 ## Research Interests
-Human-AI interaction, Applied Machine Learning, Crowdsourcing
+Digital Well-Being
 
 <!-- 
 aaaula placerat ex, a consectetur odio
@@ -32,20 +32,13 @@ ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 -->
 
 ## Publications
-- *Multi-Armed Bandit Approach to Qualification Task Assignment across Multi Crowdsourcing Platforms*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yunyi Xiao, <u>Yu Yamashita</u>, Hiroyoshi Ito, Masaki Matsubara, Atsuyuki Morishima<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 6th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData (<b>HMData 2022</b>)
-    - (Related presentasions) *Multi-Armed Bandit Approach to Task Assignment across Multi Crowdsourcing Platforms.* The 10th AAAI Conference on Human Computation and Crowdsourcing (<b>HCOMP2022 WiP</b>)<br>
-<br>
 - *HAEM: Obtaining Higher-Quality Classification Task Results with AI workers*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 14th ACM Web Science Conference (<b>WebSci2022</b>) <b>Best paper candidate</b><br>
-    - (Related presentasions 1) *HAEM: Obtaining Higher-Quality Classification Task Results with AI Co-Workers.* The 9th AAAI Conference on Human Computation and Crowdsourcing (<b>HCOMP2021 WiP</b>)<br>
-    - (Related presentasions 2) *Dynamic Worker-Task Assignment for High-Quality Task Results with ML Workers.* The 8th AAAI Conference on Human Computation and Crowdsourcing (<b>HCOMP2020 WiP</b>)<br>
+<u>Yu Yamashita</u>, Hiroyoshi Ito, Kei Wakabayashi, Masaki Kobayashi, Atsuyuki Morishima<br>
+The 14th ACM Web Science Conference (<b>WebSci 2022</b>) <b>Best paper candidate</b><br>
 <br>
 - *Replacing Method for Multi-Agent Crowd Simulation by Convolutional Neural Network*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Yu Yamashita</u>, Shunki Takami, Shusuke Shigenaka, Masaki Onishi, Atsuyuki Morishima<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 23rd International Workshop on Multi-Agent-Based Simulation (<b>MABS2022</b>)<br>
+<u>Yu Yamashita</u>, Shunki Takami, Shusuke Shigenaka, Masaki Onishi, Atsuyuki Morishima<br>
+The 23rd International Workshop on Multi-Agent-Based Simulation (<b>MABS 2022</b>)<br>
 
 <!--
 In chronological order:
@@ -56,7 +49,7 @@ In chronological order:
 ## Experience
 **[Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/)**<br>
 Responsible Computing group<br>
-Research Internship, Apr. 2023 - Mar. 2024<br>
+Research Internship, Apr. 2023 - now<br>
 Advisor: [Asia J. Biega](https://asiabiega.github.io/)
 
 **[The Cornell, Maryland, Max Planck Pre-doctoral Research School (CMMRS)](https://cmmrs.mpi-sws.org/)**<br>
@@ -64,20 +57,20 @@ Program Student, Aug. 2022<br>
 
 **[National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/index_en.html)**<br>
 Research Internship, Feb. 2020 - Jun. 2022<br>
-Mentor: [Masaki Onishi](http://onishi-lab.jp/index-e.html) and Yuko Sakurai<br>
 
-**[FusionCompLab](https://fusioncomplab.org/index.html)**<br>
-Developing [Crowd4U](https://crowd4u.org/en/), Jun. 2020<br>
+<!-- **[FusionCompLab](https://fusioncomplab.org/index.html)**<br>
+Developing [Crowd4U](https://crowd4u.org/en/), Jun. 2020<br> -->
 
 ## Awards
 President Award, Mar. 2023, University of Tsukuba
 
 ## Grants
 - [Fuji Seal Foundation](https://www.fujiseal.or.jp/en/), Apr. 2020 - Sep. 2021, Oct. 2022 - Mar. 2023, JPY 1,200,000
-- Leading Researcher Experience Program (A), May. 2020 - Jan. 2021, University of Tsukuba
-- Leading Researcher Experience Program (C), May. 2019 - Jan. 2020, University of Tsukuba
 - Conference Presentation Support, Oct. 2020, University of Tsukuba, JPY 13,536
 - Conference Presentation Support, Mar. 2020, University of Tsukuba, JPY 21,000
+<!-- - Leading Researcher Experience Program (A), May. 2020 - Jan. 2021, University of Tsukuba
+- Leading Researcher Experience Program (C), May. 2019 - Jan. 2020, University of Tsukuba -->
+
 
 <!--
 ## Typography
